@@ -99,13 +99,13 @@ Docker must be installed and running.
 Pull the image from GitHub Container Registry:
 
 ```bash
-docker pull ghcr.io/berkayysimsekk/milsoft-bilkent-campus-explorer:sha-fc6e669
+docker pull ghcr.io/berkayysimsekk/milsoft-bilkent-campus-explorer:sha-fca7692
 ```
 
 Run the container:
 
 ```bash
-docker run --name bilkent-campus-explorer -p 8080:8080 -v bilkent-campus-data:/app/data ghcr.io/berkayysimsekk/milsoft-bilkent-campus-explorer:sha-fc6e669
+docker run --name bilkent-campus-explorer -p 8080:8080 -v bilkent-campus-data:/app/data ghcr.io/berkayysimsekk/milsoft-bilkent-campus-explorer:sha-fca7692
 ```
 
 The named Docker volume preserves custom features if the container is removed and recreated.
