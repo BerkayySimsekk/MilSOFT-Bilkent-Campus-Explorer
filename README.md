@@ -96,16 +96,14 @@ Docker must be installed and running.
 
 ### Option 1: Use the Prebuilt Image
 
-Pull the image from GitHub Container Registry:
+Pull the Docker image (replace `<tag>` with the tag shown on the GitHub Packages page, e.g. `sha-fca7692`):
 
 ```bash
-docker pull ghcr.io/berkayysimsekk/milsoft-bilkent-campus-explorer:sha-fca7692
+docker pull ghcr.io/berkayysimsekk/milsoft-bilkent-campus-explorer:<tag>
 ```
 
-Run the container:
-
 ```bash
-docker run --name bilkent-campus-explorer -p 8080:8080 -v bilkent-campus-data:/app/data ghcr.io/berkayysimsekk/milsoft-bilkent-campus-explorer:sha-fca7692
+docker run --name bilkent-campus-explorer -p 8080:8080 -v bilkent-campus-data:/app/data ghcr.io/berkayysimsekk/milsoft-bilkent-campus-explorer:<tag>
 ```
 
 The named Docker volume preserves custom features if the container is removed and recreated.
