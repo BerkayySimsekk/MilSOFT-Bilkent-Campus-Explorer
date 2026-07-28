@@ -1,0 +1,12 @@
+.git
+.github
+.idea
+.vscode
+target
+diagrams
+*.iml
+*.log
+*.md
+.DS_Store
+Thumbs.db
+Desktop.ini
