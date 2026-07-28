@@ -160,7 +160,8 @@ class CustomLocationStoreTest {
                 .isInstanceOf(IllegalStateException.class)
                 .hasMessageContaining("Could not save custom GeoJSON locations file.")
                 .hasCauseInstanceOf(IOException.class);
-        assertThat(customFile).doesNotExist();
+        assertThat(blockingFile).isRegularFile();
+        assertThat(Files.readString(blockingFile, StandardCharsets.UTF_8)).isEqualTo("not a directory");
     }
 
     private static Stream<Arguments> invalidFeaturesDocuments() {
