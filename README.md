@@ -102,6 +102,8 @@ Pull the Docker image (replace `<tag>` with the tag shown on the GitHub Packages
 docker pull ghcr.io/berkayysimsekk/milsoft-bilkent-campus-explorer:<tag>
 ```
 
+Run the container:
+
 ```bash
 docker run --name bilkent-campus-explorer -p 8080:8080 -v bilkent-campus-data:/app/data ghcr.io/berkayysimsekk/milsoft-bilkent-campus-explorer:<tag>
 ```
