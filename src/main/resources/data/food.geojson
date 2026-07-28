@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    { "type": "Feature", "id": "central-campus-dining-hall", "properties": { "name": "Central Campus Dining Hall", "category": "Food", "description": "Bilkent University Merkez Kamp\u00c3\u00bcs Yemekhanesi dining hall." }, "geometry": { "type": "Point", "coordinates": [32.7505739, 39.8705194] } },
+    { "type": "Feature", "id": "food-court", "properties": { "name": "Food Court", "category": "Food", "description": "Bilkent University Food Court." }, "geometry": { "type": "Point", "coordinates": [32.7483499, 39.8660718] } },
+    { "type": "Feature", "id": "central-restaurant", "properties": { "name": "Central Restaurant", "category": "Food", "description": "Central restaurant on Bilkent campus." }, "geometry": { "type": "Point", "coordinates": [32.7466241, 39.8703092] } },
+    { "type": "Feature", "id": "coffee-break-north", "properties": { "name": "Coffee Break (North Campus)", "category": "Food", "description": "Coffee Break caf\u00c3\u00a9, north campus location." }, "geometry": { "type": "Point", "coordinates": [32.7496624, 39.8704448] } },
+    { "type": "Feature", "id": "coffee-break-south", "properties": { "name": "Coffee Break (South Campus)", "category": "Food", "description": "Coffee Break caf\u00c3\u00a9, south campus location." }, "geometry": { "type": "Point", "coordinates": [32.7491127, 39.8681957] } },
+    { "type": "Feature", "id": "coffee-break-central", "properties": { "name": "Coffee Break (Central Campus)", "category": "Food", "description": "Coffee Break caf\u00c3\u00a9, central campus location." }, "geometry": { "type": "Point", "coordinates": [32.749943, 39.8694327] } },
+    { "type": "Feature", "id": "coffee-break-library", "properties": { "name": "Coffee Break (Library Area)", "category": "Food", "description": "Coffee Break caf\u00c3\u00a9 near the Central Campus Library." }, "geometry": { "type": "Point", "coordinates": [32.7501427, 39.8703311] } },
+    { "type": "Feature", "id": "starbucks-sports-complex", "properties": { "name": "Starbucks (Sports Complex)", "category": "Food", "description": "Starbucks caf\u00c3\u00a9 near the Central Sports Hall." }, "geometry": { "type": "Point", "coordinates": [32.7492984, 39.8667461] } },
+    { "type": "Feature", "id": "starbucks-south-campus", "properties": { "name": "Starbucks (South Campus)", "category": "Food", "description": "Starbucks caf\u00c3\u00a9, south campus location." }, "geometry": { "type": "Point", "coordinates": [32.7502166, 39.8674337] } },
+    { "type": "Feature", "id": "mozart-cafe-north", "properties": { "name": "Mozart Cafe (North Campus)", "category": "Food", "description": "Mozart Cafe, north campus location." }, "geometry": { "type": "Point", "coordinates": [32.7510684, 39.8720821] } },
+    { "type": "Feature", "id": "mozart-cafe-central", "properties": { "name": "Mozart Cafe (Central Campus)", "category": "Food", "description": "Mozart Cafe, central campus location." }, "geometry": { "type": "Point", "coordinates": [32.7481628, 39.8688679] } },
+    { "type": "Feature", "id": "mozart-cafe-east", "properties": { "name": "Mozart Cafe (East Campus)", "category": "Food", "description": "Mozart Cafe, east campus location." }, "geometry": { "type": "Point", "coordinates": [32.7550274, 39.8695452] } },
+    { "type": "Feature", "id": "arabica-kitchen-fit", "properties": { "name": "Arabica Kitchen Fit", "category": "Food", "description": "Arabica Kitchen Fit caf\u00c3\u00a9." }, "geometry": { "type": "Point", "coordinates": [32.7505929, 39.8699384] } },
+    { "type": "Feature", "id": "bilmarket", "properties": { "name": "Bilmarket", "category": "Food", "description": "Bilmarket supermarket." }, "geometry": { "type": "Point", "coordinates": [32.7464092, 39.8710015] } },
+    { "type": "Feature", "id": "meteksan-market", "properties": { "name": "Meteksan Market", "category": "Food", "description": "Meteksan convenience market." }, "geometry": { "type": "Point", "coordinates": [32.7513155, 39.8724776] } }
+  ]
+}

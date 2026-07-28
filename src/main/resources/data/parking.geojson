@@ -1,0 +1,10 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    { "type": "Feature", "id": "academic-parking", "properties": { "name": "Academic Parking", "category": "Parking", "description": "Bilkent University Akademik Otopark parking area." }, "geometry": { "type": "Point", "coordinates": [32.7509281, 39.8682697] } },
+    { "type": "Feature", "id": "c-parking-lot", "properties": { "name": "C Parking Lot", "category": "Parking", "description": "Bilkent University C Parking Lot." }, "geometry": { "type": "Point", "coordinates": [32.7462185, 39.8676947] } },
+    { "type": "Feature", "id": "academic-staff-parking", "properties": { "name": "Academic and Staff Parking", "category": "Parking", "description": "Bilkent University academic and staff parking area." }, "geometry": { "type": "Point", "coordinates": [32.7498119, 39.8659575] } },
+    { "type": "Feature", "id": "cyberpark-parking", "properties": { "name": "Cyberpark Parking", "category": "Parking", "description": "Bilkent Cyberpark parking area." }, "geometry": { "type": "Point", "coordinates": [32.7460382, 39.8699658] } },
+    { "type": "Feature", "id": "mosque-parking", "properties": { "name": "Mosque Parking", "category": "Parking", "description": "Bilkent Mosque parking area." }, "geometry": { "type": "Point", "coordinates": [32.7513347, 39.867005] } }
+  ]
+}

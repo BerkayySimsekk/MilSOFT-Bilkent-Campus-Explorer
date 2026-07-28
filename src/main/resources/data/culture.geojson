@@ -1,0 +1,8 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    { "type": "Feature", "id": "bso-concert-hall", "properties": { "name": "Bilkent Symphony Orchestra Concert Hall", "category": "Culture", "description": "Bilkent Symphony Orchestra concert hall." }, "geometry": { "type": "Point", "coordinates": [32.7549683, 39.8689242] } },
+    { "type": "Feature", "id": "ahmed-adnan-saygun-center", "properties": { "name": "Ahmed Adnan Saygun Center", "category": "Culture", "description": "Ahmed Adnan Saygun Center and food court." }, "geometry": { "type": "Point", "coordinates": [32.7505346, 39.8699874] } },
+    { "type": "Feature", "id": "bilkent-mosque", "properties": { "name": "Bilkent Mosque", "category": "Culture", "description": "Bilkent campus mosque." }, "geometry": { "type": "Point", "coordinates": [32.7507151, 39.8672971] } }
+  ]
+}

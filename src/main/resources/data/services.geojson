@@ -1,0 +1,7 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    { "type": "Feature", "id": "meteksan-bookstore", "properties": { "name": "Meteksan Bookstore", "category": "Services", "description": "Meteksan bookstore." }, "geometry": { "type": "Point", "coordinates": [32.7484364, 39.866274] } },
+    { "type": "Feature", "id": "bilkent-store", "properties": { "name": "Bilkent Store", "category": "Services", "description": "Bilkent Store campus merchandise shop." }, "geometry": { "type": "Point", "coordinates": [32.7504607, 39.8706873] } }
+  ]
+}

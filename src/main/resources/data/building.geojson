@@ -1,0 +1,17 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    { "type": "Feature", "id": "central-campus-library-a", "properties": { "name": "Central Campus Library (A Block)", "category": "Building", "description": "Bilkent University Central Campus Library, A Block." }, "geometry": { "type": "Point", "coordinates": [32.7494325, 39.8703324] } },
+    { "type": "Feature", "id": "central-campus-library-b", "properties": { "name": "Central Campus Library (B Block)", "category": "Building", "description": "Bilkent University Central Campus Library, B Block." }, "geometry": { "type": "Point", "coordinates": [32.7498801, 39.8702108] } },
+    { "type": "Feature", "id": "feass-a", "properties": { "name": "Faculty of Economics, Administrative and Social Sciences (A)", "category": "Building", "description": "Faculty of Economics, Administrative and Social Sciences, A Building." }, "geometry": { "type": "Point", "coordinates": [32.7497436, 39.8676879] } },
+    { "type": "Feature", "id": "law-and-computer-center-b", "properties": { "name": "Faculty of Law and Computer Center (B)", "category": "Building", "description": "Faculty of Law and Computer Center, B Building." }, "geometry": { "type": "Point", "coordinates": [32.7481285, 39.8686935] } },
+    { "type": "Feature", "id": "faculty-of-engineering-ea", "properties": { "name": "Faculty of Engineering (EA)", "category": "Building", "description": "Bilkent University Faculty of Engineering, EA building." }, "geometry": { "type": "Point", "coordinates": [32.7499445, 39.8711166] } },
+    { "type": "Feature", "id": "faculty-of-science-sa", "properties": { "name": "Faculty of Science (SA)", "category": "Building", "description": "Bilkent University Faculty of Science, SA Building." }, "geometry": { "type": "Point", "coordinates": [32.7483123, 39.867649] } },
+    { "type": "Feature", "id": "faculty-of-science-sb", "properties": { "name": "Faculty of Science (SB)", "category": "Building", "description": "Bilkent University Faculty of Science, SB Building." }, "geometry": { "type": "Point", "coordinates": [32.7481438, 39.8682459] } },
+    { "type": "Feature", "id": "fine-arts-design-architecture-fd", "properties": { "name": "Faculty of Fine Arts, Design and Architecture (FD)", "category": "Building", "description": "Bilkent University Faculty of Fine Arts, Design and Architecture, FD Building." }, "geometry": { "type": "Point", "coordinates": [32.7492367, 39.8664374] } },
+    { "type": "Feature", "id": "student-deanship", "properties": { "name": "Student Deanship", "category": "Building", "description": "Bilkent University Student Deanship." }, "geometry": { "type": "Point", "coordinates": [32.7504191, 39.8725309] } },
+    { "type": "Feature", "id": "rectorate", "properties": { "name": "Rectorate", "category": "Building", "description": "Bilkent University Rectorate." }, "geometry": { "type": "Point", "coordinates": [32.7500895, 39.8713246] } },
+    { "type": "Feature", "id": "mathematics-department", "properties": { "name": "Mathematics Department", "category": "Building", "description": "Bilkent University Mathematics Department." }, "geometry": { "type": "Point", "coordinates": [32.7485489, 39.8675362] } },
+    { "type": "Feature", "id": "physics-department", "properties": { "name": "Physics Department", "category": "Building", "description": "Bilkent University Physics Department." }, "geometry": { "type": "Point", "coordinates": [32.7481953, 39.8678467] } }
+  ]
+}

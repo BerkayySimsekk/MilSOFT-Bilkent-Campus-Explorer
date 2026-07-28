@@ -1,0 +1,16 @@
+{
+  "rasterUrl": "/data/elevation/bilkent-elevation.tif",
+  "width": 87,
+  "height": 77,
+  "geoTransform": [
+    32.741527777777776,
+    0.00027777777777785183,
+    0.0,
+    39.88097222222222,
+    0.0,
+    -0.00027777777777783275
+  ],
+  "minimumElevation": 942.0,
+  "maximumElevation": 1113.0,
+  "unit": "metres"
+}

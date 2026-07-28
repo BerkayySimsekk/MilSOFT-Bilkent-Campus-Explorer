@@ -1,0 +1,8 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    { "type": "Feature", "id": "central-sports-hall", "properties": { "name": "Central Sports Hall", "category": "Recreation", "description": "Bilkent University Central Sports Hall." }, "geometry": { "type": "Point", "coordinates": [32.7484573, 39.8666445] } },
+    { "type": "Feature", "id": "bilkent-pond", "properties": { "name": "Bilkent Pond", "category": "Recreation", "description": "Bilkent campus pond." }, "geometry": { "type": "Point", "coordinates": [32.7581016, 39.8752815] } },
+    { "type": "Feature", "id": "festival-lawn", "properties": { "name": "Festival Lawn", "category": "Recreation", "description": "Bilkent campus festival lawn." }, "geometry": { "type": "Point", "coordinates": [32.7521596, 39.868325] } }
+  ]
+}

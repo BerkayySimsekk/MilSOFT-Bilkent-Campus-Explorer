@@ -1,0 +1,7 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    { "type": "Feature", "id": "tunus-bus-stop", "properties": { "name": "Tunus Bus Stop", "category": "Transport", "description": "Bilkent campus bus stop on the Tunus route." }, "geometry": { "type": "Point", "coordinates": [32.7475995, 39.8694073] } },
+    { "type": "Feature", "id": "cyberpark-entrance", "properties": { "name": "Cyberpark Entrance", "category": "Transport", "description": "Bilkent Cyberpark entrance bus stop." }, "geometry": { "type": "Point", "coordinates": [32.7469161, 39.8695391] } }
+  ]
+}
